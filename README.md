@@ -1,4 +1,15 @@
-# Belajar Collab dengan 2 Akun
+# Ini adalah Tugas Akhir
+Dikerjakan oleh
 
-Kolaborator
-Ahmad Amru Izzuddin - SMKIT Ihsanul Fikri
+## Ahmad Amru Izzuddin
+
+## Instansi
+
+### SMKIT Ihsanul Fikri Mungkid
+
+## Asal
+
+### Magelang
+
+### Motivation of the day
+"Janganlah menyerah, tapi kalo ga bisa lanjut tidur aja"
